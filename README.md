@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](http://patika.dev) .NET Eğitiminde oluşturduğumuz ilk re
 Öncelikle projeyi clonelayın. [Proje](https://github.com/osyasa/kodluyoruzilkrepo)
 
 # code block
-print 'git clone https://github.com/osyasa/kodluyoruzilkrepo.git'
+    print 'git clone https://github.com/osyasa/kodluyoruzilkrepo.git'
 
 ## Usage
 
@@ -16,8 +16,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux İçin:
 
 # code block
-print 'cd kodluyoruzilkrepo'
-print 'code .'
+    print 'cd kodluyoruzilkrepo'
+    print 'code .'
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
