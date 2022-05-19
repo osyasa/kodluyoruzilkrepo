@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](http://patika.dev) .NET Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de LICENCE barındırıyor.
 
+![img](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. [Proje](https://github.com/osyasa/kodluyoruzilkrepo)
